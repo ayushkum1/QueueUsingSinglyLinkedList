@@ -1,0 +1,7 @@
+# QUEUE USING SINGLY LINKED LIST
+
+## Notes:
+![QUEUE USING SINGLY LINKED LIST](/notes/one.jpg)
+![QUEUE USING SINGLY LINKED LIST](/notes/two.jpg)
+![QUEUE USING SINGLY LINKED LIST](/notes/three.jpg)
+![QUEUE USING SINGLY LINKED LIST](/notes/four.jpg)
